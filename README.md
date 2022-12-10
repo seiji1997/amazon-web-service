@@ -3,7 +3,7 @@ I will get certificate in 2023<br>
 - [https://aws.amazon.com/jp/certification/](https://aws.amazon.com/jp/certification/)
 
 ## certificate
-### 2023/2/1 - 2023/3//31 （Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
+### 2023/2/1 - 2023/3/31 （Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
 - AWS Certified Solutions Architect Associate
 - AWS Certified SysOps Administrator Associate
 - AWS Certified Developer Associate
