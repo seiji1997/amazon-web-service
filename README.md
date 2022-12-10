@@ -3,13 +3,13 @@ I will get certificate in 2023<br>
 - [https://aws.amazon.com/jp/certification/](https://aws.amazon.com/jp/certification/)
 
 ## certificate
-### 2023/2/1（Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
+### 2023/2/1 - 2023/3//31 （Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
 - AWS Certified Solutions Architect Associate
 - AWS Certified SysOps Administrator Associate
 - AWS Certified Developer Associate
 - AWS Certified Solutions Architect Professional
 
-### 2023/4/1（Using Udemy prep exam in English）<br>
+### 2023/4/1 - 2023/12/31 （Using Udemy prep exam in English）<br>
 
 - AWS Certified DevOps Engineer Professional<br>
 https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-amazon/<br>
