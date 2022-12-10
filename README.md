@@ -8,7 +8,9 @@ I will get certificate in 2023<br>
 - AWS Certified SysOps Administrator Associate
 - AWS Certified Developer Associate
 - AWS Certified Solutions Architect Professional
+
 2023/4/1（Udemy）<br>
+
 - AWS Certified DevOps Engineer Professional
 - AWS Certified Data Analytics Specialty
 - AWS Certified Database Specialty
