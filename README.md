@@ -25,7 +25,7 @@ https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/<
 
 ## compare AWS with Google Cloud
 
-|AWS|Google Cloud|
+|AWS Certified|Google Cloud Certified|
 |:---:|:---:|
 |AWS Certified Solutions Architect Associate|Google Cloud Certified Associate Cloud Engineer 
 |AWS Certified SysOps Administrator Associate|
