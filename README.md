@@ -27,12 +27,12 @@ https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/<
 
 |AWS Certified|Google Cloud Certified|
 |:---:|:---:|
-|AWS Certified Solutions Architect Associate|Google Cloud Certified Associate Cloud Engineer 
-|AWS Certified SysOps Administrator Associate|
-|AWS Certified Developer Associate|Google Cloud Certified - Professional Cloud Developer
-|AWS Certified Solutions Architect Professional|Google Cloud Certified - Professional Cloud Architect
-|AWS Certified DevOps Engineer Professional|Google Cloud Certified - Professional DevOps Engineer
-|AWS Certified Data Analytics Specialty|Google Cloud Certified - Professional Data Engineer
-|AWS Certified Database Specialty|Google Cloud Certified - Professional Cloud Database Engineer
-|AWS Certified Security Specialty|Google Cloud Certified - Professional Security Engineer
-|AWS Certified Machine Learning Specialty|Google Cloud Certified - Professional Machine Learning Engineer
+|Solutions Architect Associate|Associate Cloud Engineer 
+|SysOps Administrator Associate|
+|Developer Associate|Professional Cloud Developer
+|Solutions Architect Professional|Professional Cloud Architect
+|DevOps Engineer Professional|Professional DevOps Engineer
+|Data Analytics Specialty|Professional Data Engineer
+|Database Specialty|Professional Cloud Database Engineer
+|Security Specialty|Professional Security Engineer
+|Machine Learning Specialty|Professional Machine Learning Engineer
