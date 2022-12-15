@@ -4,24 +4,23 @@ I will get certificate in 2023<br>
 
 ## certificate
 ### 2023/1/1 - 2023/3/31: 12 weeks（Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
-- 3 weeks: AWS Certified Solutions Architect Associate
-- 3 weeks: AWS Certified SysOps Administrator Associate
-- 3 weeks: AWS Certified Developer Associate
-- 3 weeks: AWS Certified Solutions Architect Professional
+- 2023/1/22: 3 weeks: AWS Certified Solutions Architect Associate
+- 2023/2/5: 2 weeks: AWS Certified Solutions Architect Professional
+- 2023/2/26: 3 weeks: AWS Certified SysOps Administrator Associate
+- 2023/3/19: 3 weeks: AWS Certified Developer Associate
 
 ### 2023/4/1 - 2023/12/31: 36 weeks （Using Udemy prep exam in English）<br>
-
-- 4~8 weeks: AWS Certified DevOps Engineer Professional<br>
-https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-amazon/<br>
 - 4~8 weeks: AWS Certified Data Analytics Specialty<br>
 https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-amazon/<br>
-- 4~8 weeks: AWS Certified Database Specialty<br>
-https://www.udemy.com/course/aws-certified-database-specialty-practice-exams-dbs-c01/<br>
 - 4~8 weeks: AWS Certified Security Specialty<br>
 https://www.udemy.com/course/aws-certified-security-specialty/<br>
 - 4~8 weeks: AWS Certified Machine Learning Specialty<br>
 https://www.udemy.com/course/aws-certified-machine-learning-specialty-exam-m/<br>
 https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/<br>
+- 4~8 weeks: AWS Certified DevOps Engineer Professional<br>
+https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-amazon/<br>
+- 4~8 weeks: AWS Certified Database Specialty<br>
+https://www.udemy.com/course/aws-certified-database-specialty-practice-exams-dbs-c01/<br>
 
 ## compare AWS with Google Cloud
 
