@@ -3,11 +3,11 @@ I will get certificate in 2023<br>
 - [https://aws.amazon.com/jp/certification/](https://aws.amazon.com/jp/certification/)
 
 ## certificate
-### 2023/2/1 - 2023/3/31 （Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
-- AWS Certified Solutions Architect Associate
-- AWS Certified SysOps Administrator Associate
-- AWS Certified Developer Associate
-- AWS Certified Solutions Architect Professional
+### 2023/1/1 - 2023/3/31: 12 weeks（Using prep exam in Japanese: https://kws-cloud-tech.com）<br>
+- 3 weeks: AWS Certified Solutions Architect Associate
+- 3 weeks: AWS Certified SysOps Administrator Associate
+- 3 weeks: AWS Certified Developer Associate
+- 3 weeks: AWS Certified Solutions Architect Professional
 
 ### 2023/4/1 - 2023/12/31 （Using Udemy prep exam in English）<br>
 
