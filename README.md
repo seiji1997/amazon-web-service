@@ -27,12 +27,12 @@ https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/<
 
 |AWS Certified|Google Cloud Certified|
 |:---:|:---:|
-|Solutions Architect Associate|Associate Cloud Engineer 
-|SysOps Administrator Associate|
-|Developer Associate|Professional Cloud Developer
-|Solutions Architect Professional|Professional Cloud Architect
-|DevOps Engineer Professional|Professional DevOps Engineer
-|Data Analytics Specialty|Professional Data Engineer
-|Database Specialty|Professional Cloud Database Engineer
-|Security Specialty|Professional Security Engineer
-|Machine Learning Specialty|Professional Machine Learning Engineer
+|[Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|[Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) 
+|[SysOps Administrator Associate](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/)|
+|[Developer Associate](https://aws.amazon.com/jp/certification/certified-developer-associate/)|[Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer)
+|[Solutions Architect Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/)|[Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
+|[DevOps Engineer Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/)|[Professional DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
+|[Data Analytics Specialty](https://aws.amazon.com/jp/certification/certified-data-analytics-specialty/)|[Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
+|[Database Specialty](https://aws.amazon.com/jp/certification/certified-database-specialty/)|[Professional Cloud Database Engineer](https://cloud.google.com/certification/cloud-database-engineer)
+|[Security Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)|[Professional Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
+|[Machine Learning Specialty](https://aws.amazon.com/jp/certification/certified-machine-learning-specialty/)|[Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
