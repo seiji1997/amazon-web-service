@@ -33,5 +33,6 @@ https://www.udemy.com/course/aws-certified-database-specialty-practice-exams-dbs
 |[DevOps Engineer Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/)|[Professional DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
 |[Data Analytics Specialty](https://aws.amazon.com/jp/certification/certified-data-analytics-specialty/)|[Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
 |[Database Specialty](https://aws.amazon.com/jp/certification/certified-database-specialty/)|[Professional Cloud Database Engineer](https://cloud.google.com/certification/cloud-database-engineer)
+|[Advanced Networking Specialty](https://aws.amazon.com/jp/certification/certified-advanced-networking-specialty/?ch=tile&tile=getstarted)| [Professional Cloud Network Engineer](https://cloud.google.com/certification/cloud-network-engineer)
 |[Security Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)|[Professional Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
 |[Machine Learning Specialty](https://aws.amazon.com/jp/certification/certified-machine-learning-specialty/)|[Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
