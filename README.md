@@ -24,15 +24,15 @@ https://www.udemy.com/course/aws-certified-database-specialty-practice-exams-dbs
 
 ## compare AWS with Google Cloud
 
-|AWS Certified|Google Cloud Certified|
-|:---:|:---:|
-|[Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|[Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) 
-|[SysOps Administrator Associate](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/)|
-|[Developer Associate](https://aws.amazon.com/jp/certification/certified-developer-associate/)|[Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer)
-|[Solutions Architect Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/)|[Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
-|[DevOps Engineer Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/)|[Professional DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
-|[Data Analytics Specialty](https://aws.amazon.com/jp/certification/certified-data-analytics-specialty/)|[Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
-|[Database Specialty](https://aws.amazon.com/jp/certification/certified-database-specialty/)|[Professional Cloud Database Engineer](https://cloud.google.com/certification/cloud-database-engineer)
-|[Advanced Networking Specialty](https://aws.amazon.com/jp/certification/certified-advanced-networking-specialty/?ch=tile&tile=getstarted)| [Professional Cloud Network Engineer](https://cloud.google.com/certification/cloud-network-engineer)
-|[Security Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)|[Professional Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
-|[Machine Learning Specialty](https://aws.amazon.com/jp/certification/certified-machine-learning-specialty/)|[Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+date|AWS Certified|date|Google Cloud Certified|
+|:---:|:---:|:---:|:---:|
+2023|[Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|2022/5|[Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) 
+2023|[SysOps Administrator Associate](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/)|
+2023|[Developer Associate](https://aws.amazon.com/jp/certification/certified-developer-associate/)|2023|[Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer)
+2023|[Solutions Architect Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/)|2022/6|[Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
+2023|[DevOps Engineer Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/)|2023|[Professional DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
+2023|[Data Analytics Specialty](https://aws.amazon.com/jp/certification/certified-data-analytics-specialty/)|2022/8|[Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
+2023|[Database Specialty](https://aws.amazon.com/jp/certification/certified-database-specialty/)|2023|[Professional Cloud Database Engineer](https://cloud.google.com/certification/cloud-database-engineer)
+2023|[Advanced Networking Specialty](https://aws.amazon.com/jp/certification/certified-advanced-networking-specialty/?ch=tile&tile=getstarted)|2023| [Professional Cloud Network Engineer](https://cloud.google.com/certification/cloud-network-engineer)
+2023|[Security Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)|2022/12|[Professional Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
+2023|[Machine Learning Specialty](https://aws.amazon.com/jp/certification/certified-machine-learning-specialty/)|2022/12|[Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
