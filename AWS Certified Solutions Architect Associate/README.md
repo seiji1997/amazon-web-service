@@ -18,6 +18,7 @@ I will get certificate in 2023/1<br>
 ### Domain 1: Design Secure Architectures
 #### EC2
 - [Hibernate an instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hibernating-instances.html)
+- [On-Demand Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-on-demand-instances.html)
 
 #### VPC
 - [DHCP option sets in Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html)
